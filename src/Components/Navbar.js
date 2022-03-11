@@ -13,7 +13,7 @@ function Navbar() {
                         <Link to="/">Home</Link>
                     </li>
                     <li>
-                        <Link to="/projects">Project</Link>
+                        <Link to="/projects">Projects</Link>
                     </li>
                     <li>
                         <ExternalLink href="https://github.com/shougarianh">GitHub</ExternalLink>

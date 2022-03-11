@@ -1,7 +1,9 @@
 .title{
     display: flex;
+    margin-bottom: 0;
     justify-content: center;
-    background-image: url("HeaderPhoto.jpg");
+    /*background-image: url("HeaderPhoto.jpg");*/
+    background-image: url("network1.jpg");
     color: white;
 }
 .home {
@@ -18,12 +20,14 @@
 }
 
 .right{
-    background-color: whitesmoke;
+    background-color: rgb(26, 24, 24);
     width: 50%;
     float: left;
     display: flex;
     justify-content: center;
     text-align: center;
+    color: white;
+    padding-right: 10px;
 }
 
 img {
@@ -36,4 +40,13 @@ li {
 
 .paragraphs {
     text-align: left;
+}
+
+.end{
+    background-image: url("network1.jpg");
+    display: flex;
+    margin-bottom: 0;
+    justify-content: center;
+    color: white;
+    text-align: center;
 }

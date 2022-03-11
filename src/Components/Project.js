@@ -1,6 +1,12 @@
-function Project() {
+const Project = ()  => {
     return (
-        <h1>Project yo</h1>
+        <div>
+            <div>
+                <div>
+                <h1>Project yo</h1>
+                </div>
+            </div>
+        </div>
     )
 }
 

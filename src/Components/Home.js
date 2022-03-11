@@ -23,7 +23,7 @@ function Home(){
                                 Welcome to my programming portfolio! 
                             </p>
                             <p>
-                                I am a recent graduate form the University of
+                                I am a recent graduate from the University of
                                 Massachusetts-Boston actively searching for
                                 software engineering roles.
                             </p>

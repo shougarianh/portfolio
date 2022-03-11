@@ -2,9 +2,7 @@ import "../Styles/Home.css";
 function Home(){
     return(
         <div>
-            <div className="title">
-                <h1>Haik Shougarian</h1>
-            </div>
+            
             <div className="home">
                 <div className="left">
                     <ul>
@@ -51,11 +49,11 @@ function Home(){
                                 and a cat that likes to scare both of them.
                             </p>
                             <p>
-                                Please feel free to reache out to me and have a chat!
+                                Please feel free to reach out to me and have a chat!
                             </p>
                         </li>
                         <li>
-                            <button>Resume</button>
+                            <a href="./images/Resume22.pdf" target="_blank" alt="HELLO"> Download Resume</a>
                         </li>
                     </ul>
                 </div>

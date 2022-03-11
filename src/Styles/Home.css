@@ -1,0 +1,39 @@
+.title{
+    display: flex;
+    justify-content: center;
+    background-image: url("HeaderPhoto.jpg");
+    color: white;
+}
+.home {
+    display: flex;
+}
+.left{
+    padding-top: 20px;
+    background-color: whitesmoke;
+    width: 50%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.right{
+    background-color: whitesmoke;
+    width: 50%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 50%;
+}
+li {
+    list-style: none;
+}
+
+.paragraphs {
+    text-align: left;
+}

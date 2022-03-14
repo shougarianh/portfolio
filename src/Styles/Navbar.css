@@ -1,12 +1,12 @@
 header {
     color: white;
     padding: 5px; 
-    background-image: url("network1.jpg");
+    /*background-image: url("network1.jpg");*/
+    background-color: black;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-radius: 20px;
 }
 
 h1{

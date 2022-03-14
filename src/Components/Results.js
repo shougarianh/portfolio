@@ -7,6 +7,7 @@ const Results = ({ proj }) => {
         proj.map((proj) => (
           <Project
             key={proj.id}
+            tech={proj.tech}
             name={proj.name}
             image={proj.image}
             description={proj.description}

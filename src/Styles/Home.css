@@ -8,6 +8,8 @@
 }
 .home {
     display: flex;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
 }
 .left{
     padding-top: 20px;
@@ -17,9 +19,13 @@
     display: flex;
     justify-content: center;
     text-align: center;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 .right{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
     background-color: rgb(26, 24, 24);
     width: 50%;
     float: left;
@@ -79,6 +85,7 @@ li a:hover {
 }
 
 .end{
+    border-radius: 20px;
     background-image: url("network1.jpg");
     display: flex;
     margin-bottom: 0;

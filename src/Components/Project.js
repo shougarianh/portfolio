@@ -1,14 +1,13 @@
 import "../Styles/Projectspage.css";
-const Project = ({ name, animal, breed, images, location, id })  => {
+const Project = ({ name, description , image, id })  => {
     return (
-      <div className="tile">
-        <div>
-          <img src={images[0]} alt={name} />
+      <div className="card">
+        <div className="card-body">
+          <img src={image} alt={name} />
+          <h2 className="card-title">{name}</h2>
+          <p className="card-description">{description}</p>
         </div>
-        <div className="info">
-          <h1>{name}</h1>
-          <h2>{`${animal} - ${breed} - ${location}`}</h2>
-        </div>
+        
       </div>
     )
 }

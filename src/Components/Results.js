@@ -6,12 +6,10 @@ const Results = ({ proj }) => {
       {(
         proj.map((proj) => (
           <Project
-            animal={proj.animal}
             key={proj.id}
             name={proj.name}
-            breed={proj.breed}
-            images={proj.images}
-            location={`${proj.city}, ${proj.state}`}
+            image={proj.image}
+            description={proj.description}
             id={proj.id}
           />
         ))

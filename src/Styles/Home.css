@@ -30,6 +30,30 @@
     padding-right: 10px;
 }
 
+@media (max-width: 1000px){
+    .home {
+        display:table;
+        padding: auto;
+    }
+    .left{
+        padding-top: 20px;
+        background-color: whitesmoke;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .right{
+        background-color: rgb(26, 24, 24);
+        padding-top: 20px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+}
+
 img {
     border-radius: 50%;
     width: 50%;

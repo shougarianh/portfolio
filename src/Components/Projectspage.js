@@ -11,16 +11,15 @@ const Projectspage = ()  => {
     
       async function requestPets() {
         const res = await fetch(
-          `http://pets-v2.dev-apis.com/pets?animal=dog`
+          "MyProjects.JSON"
         );
         const json = await res.json();
-        setProj(json.pets);
-        console.log(json);
+        console.log(proj);
+        setProj(json.projects);
       }
-    
 
     return (
-        <div>
+        <div className="background">
             <Results proj={proj} />
         </div>
     )

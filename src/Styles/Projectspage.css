@@ -1,3 +1,6 @@
+.background {
+    background-image: url("network1.jpg");
+}
 .tile{
     padding-top: 20px;
     background-color: whitesmoke;

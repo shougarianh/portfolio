@@ -1,4 +1,3 @@
-import Project from "./Project";
 import Results from "./Results";
 import { useState , useEffect} from "react";
 

@@ -1,0 +1,36 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "name": "Portfolio Website",
+        "description": "This very website is one of my latest projects. I developed it using React.JS along side CSS. This was my first time utilizing react-hooks, specifically useEffect() and useState(). Have a look around and let me know what you think!",
+        "image": "./images/PortfolioImage.png",
+        "tech" : "React.JS, JavaScript, HTML, CSS",
+        "link" : "https://github.com/shougarianh/portfolio"
+      },
+      {
+        "id": 2,
+        "name": "Android Workout Tracking App",
+        "description": "This was my final project for my android app develoment class. I work together with a classmate to develop an app which allows users to log their workouts. Each user has the ability to make a unique account and gain sole access to their data. Using firebase, I was able to implement user authentication as well as store user workout data in their database. I also implemented the UI for adding workouts. The rest of the UI was implemented by my teammate.",
+        "image": "./images/WorkoutImage.png",
+        "tech" : "Android Studio, Java, Firebase",
+        "link" : "https://github.com/shougarianh/CS443-final-project"
+      },
+      {
+        "id": 3,
+        "name": "Real-Estate Investment Web Application",
+        "description": "This was the capstone project for my undergraduate degree. I worked in a team of three to develop an application for a client which calls the Realtor API to get a list of properties, performs calculations which aid the investor on evaluating the likely returns from their investment (Cash on cash ROI, Cash flow per unit per month, ect.) and returns it to the user. I, along with one of my teammates were in charge of coding the backend which is written in GO. We designed the backend to handle all of the api calls and store calculations on a Firebase document.",
+        "image": "http://pets-images.dev-apis.com/pets/dog31.jpg",
+        "tech" : "GO, Firebase, Realtor APIß",
+        "link" : "https://github.com/clopez98/project-6-backend"
+      },
+      {
+        "id": 4,
+        "name": "Handwritten Character Recognition With Machine Learning",
+        "description": "This project is a classification algorithm which utilizes logistic regression to classify uppercase handwritten characters. Using a one Vs. rest approach, the algorithm achieves 96% training accuracy and 70% test accuracy with new examples.",
+        "image": "./images/MachineImage.png",
+        "tech" : "Octave, Machine Learning",
+        "link" : "https://github.com/shougarianh/cs438Final"
+      }
+    ]
+  }

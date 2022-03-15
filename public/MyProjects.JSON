@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Android Workout Tracking App",
         "description": "This was my final project for my android app develoment class. I work together with a classmate to develop an app which allows users to log their workouts. Each user has the ability to make a unique account and gain sole access to their data. Using firebase, I was able to implement user authentication as well as store user workout data in their database. I also implemented the UI for adding workouts. The rest of the UI was implemented by my teammate.",
-        "image": "./images/WorkoutImage.png",
+        "image": "./images/Workout.png",
         "tech" : "Android Studio, Java, Firebase",
         "link" : "https://github.com/shougarianh/CS443-final-project"
       },
@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Real-Estate Investment Web Application",
         "description": "This was the capstone project for my undergraduate degree. I worked in a team of three to develop an application for a client which calls the Realtor API to get a list of properties, performs calculations which aid the investor on evaluating the likely returns from their investment (Cash on cash ROI, Cash flow per unit per month, ect.) and returns it to the user. I, along with one of my teammates were in charge of coding the backend which is written in GO. We designed the backend to handle all of the api calls and store calculations on a Firebase document.",
-        "image": "http://pets-images.dev-apis.com/pets/dog31.jpg",
+        "image": "./images/RealImage.jpg",
         "tech" : "GO, Firebase, Realtor API",
         "link" : "https://github.com/clopez98/project-6-backend"
       },

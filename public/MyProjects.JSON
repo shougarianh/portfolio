@@ -11,7 +11,7 @@
       {
         "id": 2,
         "name": "Android Workout Tracking App",
-        "description": "This was my final project for my android app develoment class. I work together with a classmate to develop an app which allows users to log their workouts. Each user has the ability to make a unique account and gain sole access to their data. Using firebase, I was able to implement user authentication as well as store user workout data in their database. I also implemented the UI for adding workouts. The rest of the UI was implemented by my teammate.",
+        "description": "This was my final project for my android app develoment class. I worked together with a classmate to develop an app which allows users to log their workouts. Each user has the ability to make a unique account and gain sole access to their data. Using firebase, I was able to implement user authentication as well as store user workout data in their database. I also implemented the UI for adding workouts. The rest of the UI was implemented by my teammate.",
         "image": "./images/Workout.png",
         "tech" : "Android Studio, Java, Firebase",
         "link" : "https://github.com/shougarianh/CS443-final-project"
@@ -27,7 +27,7 @@
       {
         "id": 4,
         "name": "Handwritten Character Recognition With Machine Learning",
-        "description": "This project is a classification algorithm which utilizes logistic regression to classify uppercase handwritten characters. Using a one Vs. rest approach, the algorithm achieves 96% training accuracy and 70% test accuracy with new examples.",
+        "description": "This project is a classification algorithm which utilizes logistic regression to classify uppercase handwritten characters. Using a one Vs. rest approach, the algorithm achieves 96% training accuracy and 70% test accuracy with new examples. A user inputs an image of a handwritten character, the computer then runs logistic regression on the image and classifies it as a digital character from 26 possible classes (A-Z). You can learn more about it in this report https://docs.google.com/document/d/1qNXnVucGz0UQFVf-N41xR9sXq1jLntnp67whCPHY8aw/edit?usp=sharing",
         "image": "./images/MachineImage.png",
         "tech" : "Octave, Machine Learning",
         "link" : "https://github.com/shougarianh/cs438Final"

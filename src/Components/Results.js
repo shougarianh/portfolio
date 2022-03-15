@@ -10,6 +10,7 @@ const Results = ({ proj }) => {
             tech={proj.tech}
             name={proj.name}
             image={proj.image}
+            link={proj.link}
             description={proj.description}
             id={proj.id}
           />

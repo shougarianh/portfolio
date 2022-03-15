@@ -53,7 +53,7 @@ function Home(){
                             </p>
                         </li>
                         <li>
-                            <a href="./images/Resume22.pdf" target="_blank" alt="HELLO"> Download Resume</a>
+                            <a className="resume" href="./images/Resume22.pdf" target="_blank" alt="HELLO"> Download Resume</a>
                         </li>
                     </ul>
                 </div>

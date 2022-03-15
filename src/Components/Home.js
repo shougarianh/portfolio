@@ -16,7 +16,7 @@ function Home(){
                 <div className="right">
                     <ul>
                         <li>
-                            <h1>About Me</h1>
+                            <h1 className="about-me">About Me</h1>
                         </li>
                         <li className="paragraphs">
                             <p>

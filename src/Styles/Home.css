@@ -1,11 +1,4 @@
-.title{
-    display: flex;
-    margin-bottom: 0;
-    justify-content: center;
-    /*background-image: url("HeaderPhoto.jpg");*/
-    background-image: url("network1.jpg");
-    color: white;
-}
+
 .home {
     display: flex;
     border-top: 2px solid white;
@@ -33,9 +26,12 @@
     justify-content: center;
     text-align: center;
     color: white;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 
+.about-me {
+    padding-right: 20px;
+}
 @media (max-width: 1000px){
     .home {
         display:table;
@@ -59,8 +55,9 @@
         display: flex;
         justify-content: center;
         text-align: center;
-        padding-right: 10px;
+        padding-right: 0px;
     }
+    
 }
 
 img {
@@ -71,16 +68,18 @@ img {
 
 li {
     list-style: none;
+    padding-right: 20px;
 }
 
 .resume{
     border: 2px solid white;
+    padding-right: 20px;
 }
 li a{
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 20px;
     text-decoration: none;
     border-radius: 20px;
 }
@@ -93,6 +92,7 @@ li a:hover {
 
 .paragraphs {
     text-align: left;
+    padding-right: 20px;
 }
 
 .end{
@@ -102,6 +102,7 @@ li a:hover {
     display: flex;
     margin-bottom: 0;
     justify-content: center;
+    padding-right: 20px;
     color: white;
     text-align: center;
 }

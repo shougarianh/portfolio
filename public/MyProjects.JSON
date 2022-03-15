@@ -27,7 +27,7 @@
       {
         "id": 4,
         "name": "Handwritten Character Recognition With Machine Learning",
-        "description": "This project is a classification algorithm which utilizes logistic regression to classify uppercase handwritten characters. Using a one Vs. rest approach, the algorithm achieves 96% training accuracy and 70% test accuracy with new examples. A user inputs an image of a handwritten character, the computer then runs logistic regression on the image and classifies it as a digital character from 26 possible classes (A-Z). You can learn more about it in this report https://docs.google.com/document/d/1qNXnVucGz0UQFVf-N41xR9sXq1jLntnp67whCPHY8aw/edit?usp=sharing",
+        "description": "This project is a classification algorithm which utilizes logistic regression to classify uppercase handwritten characters. Using a one Vs. rest approach, the algorithm achieves 96% training accuracy and 70% test accuracy with new examples. A user inputs an image of a handwritten character, the computer then runs logistic regression on the image and classifies it as a digital character from 26 possible classes (A-Z).",
         "image": "./images/MachineImage.png",
         "tech" : "Octave, Machine Learning",
         "link" : "https://github.com/shougarianh/cs438Final"

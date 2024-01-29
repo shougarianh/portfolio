@@ -52,9 +52,7 @@ function Home(){
                                 Please feel free to reach out to me and have a chat!
                             </p>
                         </li>
-                        <li>
-                            <a className="resume" href="./images/Haik_Shougarian_Resume.pdf" target="_blank" alt="HELLO"> Download Resume</a>
-                        </li>
+                        
                     </ul>
                 </div>
             </div>
@@ -64,10 +62,7 @@ function Home(){
                         <h1> Contact me</h1>
                     </li>
                     <li>
-                        <h3>Email: haik.shougarian001@umb.edu</h3>
-                    </li>
-                    <li>
-                        <h3>Phone: 857-600-9172</h3>
+                        <h3>Email: haikshoug@gmail.com</h3>
                     </li>
                 </ul>
             </div>
